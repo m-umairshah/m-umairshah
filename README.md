@@ -1,21 +1,18 @@
-# Muhammad Umair
-
-**Job Title:** Software Engineer  
-**Experience:** 2 years  
-**Education:** BS in Computer Science
-
-## Skills
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery, ReactJs
-- **Backend:** PHP, Laravel
-- **Database:** MySQL
+# Muhammad Umair - Software Engineer
 
 ## About Me
-I am a passionate Software Engineer with 2 years of experience in developing web applications using modern technologies. I have a strong background in both frontend and backend development, with expertise in full-stack technologies such as ReactJs, PHP, and Laravel. I am committed to delivering clean, efficient, and scalable code.
+I am Muhammad Umair, a Software Engineer with 2 years of experience. I hold a Bachelor of Science in Computer Science and have developed a strong skill set in both front-end and back-end web development. I am passionate about building responsive, user-friendly applications and have worked on various projects using modern technologies.
 
-## Projects
-- **[Project 1 Name]**: Brief description of project, including technologies used.
-- **[Project 2 Name]**: Brief description of project, including technologies used.
+## Skills
+- **Languages**: HTML, CSS, Bootstrap, JavaScript, jQuery, ReactJs, PHP, MySQL, Laravel, Python
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery, ReactJs
+- **Backend**: PHP, Laravel
+- **Database**: MySQL
+- **Other**: Version Control (Git), RESTful API Development
+
+## Experience
+I have 2 years of experience in software development, during which I have worked on diverse projects, including web applications and custom software solutions. I enjoy solving complex problems and am constantly improving my skills to stay updated with the latest industry trends.
 
 ## Contact
-- Email: [muhammadumair4302@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/m-umairshah/]
+- **Email**: [muhammadumair4302@gmail.com](mailto:muhammadumair4302@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/m-umairshah/)
