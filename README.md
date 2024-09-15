@@ -14,5 +14,7 @@ I am Muhammad Umair, a Software Engineer with 2 years of experience. I hold a Ba
 I have 2 years of experience in software development, during which I have worked on diverse projects, including web applications and custom software solutions. I enjoy solving complex problems and am constantly improving my skills to stay updated with the latest industry trends.
 
 ## Contact
-- **Email**: [muhammadumair4302@gmail.com](mailto:muhammadumair4302@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/m-umairshah/)
+
+- 📧 [muhammadumair4302@gmail.com](mailto:muhammadumair4302@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/m-umairshah/)
+- 📞 +92 310 4098405
